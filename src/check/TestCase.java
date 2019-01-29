@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import controller.Calc;
 
-public class Teste {
+public class TestCase {
 
 	@Test
 	public void testSum() {
